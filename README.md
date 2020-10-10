@@ -1,5 +1,5 @@
 # Fitness Tracker [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
+Deployed Application: https://workout-tracker-5000.herokuapp.com/
 ###
 
 <br>
@@ -7,6 +7,11 @@
 ## Description
 
 - Fitness Tracker is a full stack application making use of MongoDBthat allows users to track their workouts and exercise statistics
+
+<br>
+
+![](https://github.com/TJFitz/Fitness_Tracker/blob/main/public/assets/images/homepage.png)
+![](https://github.com/TJFitz/Fitness_Tracker/blob/main/public/assets/images/stats.png)
 
 ## Table of Contents
 
